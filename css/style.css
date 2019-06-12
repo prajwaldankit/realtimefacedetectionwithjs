@@ -27,6 +27,7 @@ h2 {
 }
 
 canvas {
+    margin-top: 6rem;
     position : absolute;
 }
 
@@ -34,5 +35,3 @@ canvas {
     color: black;
     opacity: 1;
 }
-
-
